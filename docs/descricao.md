@@ -1,6 +1,7 @@
  Objetivo
+Validar a viabilidade de um modelo de economia compartilhada focado em Intervenção Assistida por Animais (IAA) e companhia temporária, conectando pets a hospitais, famílias e indivíduos para promover bem-estar e saúde emocional.
 
-O Pet Conect conecta pessoas e empresas a animais para fins de companhia, terapia e bem-estar.
+Nome do app PET CONECT
 
  Tipos de cliente
 
