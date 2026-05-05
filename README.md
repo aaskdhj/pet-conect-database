@@ -4,11 +4,8 @@ Projeto
 
 ## Modelagem
 
-### MER
-![MER](docs/MER.png)
-
-### DER
-![DER](docs/DER.png)
+docs/conceitual.png
+docs/logico.png
 
 ## Consultas
 
