@@ -4,8 +4,11 @@ Projeto
 
 ## Modelagem
 
-docs/conceitual.png
-docs/logico.png
+### 🔹 Modelo Conceitual (MER)
+![Modelo Conceitual](docs/conceitual.png)
+
+### 🔹 Modelo Lógico (DER)
+![Modelo Lógico](docs/logico.png)
 
 ## Consultas
 
